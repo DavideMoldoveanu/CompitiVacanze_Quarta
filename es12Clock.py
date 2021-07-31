@@ -3,7 +3,7 @@ Moldoveanu Davide
 Clock
 '''
 
-days = ['Lundì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato', 'Domenica']
+days = ['Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato', 'Domenica']
 clock = {'Giorno': days[0], 'Ore': 0, 'Minuti':0}       #diz
 
 def Clock(nMin, decision, gg):
